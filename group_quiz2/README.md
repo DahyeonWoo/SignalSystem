@@ -5,7 +5,7 @@ close all;                                    % 모든 생성된 창을 닫음
 clear all;                                    % 열려있는 작업영역(workspace)을 모두 비움 
 clc;                                          % 명령(command) 창을 비움
 
-n=-20:19;                                     % 범위 설정
+n=-20:19;                         π……………∫˙ ……………v                .©            % 범위 설정
 x=x1D(n).*x2D(n);                             % 식 실행
 stem(n,x);                                    % 그림
 xlabel('n');                                  % xlabel
